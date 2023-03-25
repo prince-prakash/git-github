@@ -1,2 +1,2 @@
 # git-github
-Beginner Devops
+This is for Beginner Devops practicals
